@@ -1,3 +1,3 @@
 # w2
 
-Practicing HTML, CSS for my second Software Development Evaluation
+separate HTML and CSS files
